@@ -1,0 +1,40 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+1. start
+2. input number to be checked
+3. if the number % 2 equils 0, then
+4. display "number is even"
+5. else
+6. display "the number is odd"
+7. end
+
+//Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+1. numlist = [1, 2, 3, 4, 5]        <--- names variables
+2. total = numlist                  <--- this totals all numbers
+3. total / 5 = average              <--- divides total by 5 for average #
+4. print average
+4. min_value = min(numlist)         <--- hopefully finds min from numlist
+5. print min
+6. max_value = max(numlist)         <--- hopefully finds max from numlist 
+7. print max
+
